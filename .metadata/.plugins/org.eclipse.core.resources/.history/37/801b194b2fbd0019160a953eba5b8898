@@ -1,0 +1,15 @@
+package main.java.String;
+
+public class Constructor {
+
+	static String str;
+	public void Constructor() {
+		System.out.println("xxxxxxxxxxxxx");
+	}
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

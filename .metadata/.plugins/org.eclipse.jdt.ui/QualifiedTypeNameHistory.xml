@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="behaviour.mementopattern.FileWriterUtil"/>
+<fullyQualifiedTypeName name="behaviour.iterator.ChannelIterator"/>
+<fullyQualifiedTypeName name="behaviour.iterator.ChannelType"/>
+<fullyQualifiedTypeName name="behaviour.iterator.ChannelCollection"/>
+<fullyQualifiedTypeName name="behaviour.templatemethodpattern.HouseTemplate"/>
+<fullyQualifiedTypeName name="behaviour.templatemethodpattern.WoodenHouse"/>
+<fullyQualifiedTypeName name="behaviour.mediatorpattern.mediator.ChatMediator"/>
+<fullyQualifiedTypeName name="behaviour.mediatorpattern.mediator.ChatMediatorImpl"/>
+<fullyQualifiedTypeName name="behaviour.mediatorpattern.colleague.User"/>
+<fullyQualifiedTypeName name="behaviour.mediatorpattern.colleague.UserImpl"/>
+<fullyQualifiedTypeName name="behaviour.statepattern.state.MobileAlertState"/>
+<fullyQualifiedTypeName name="behaviour.statepattern.state.Normal"/>
+<fullyQualifiedTypeName name="behaviour.statepattern.context.AlertContext"/>
+<fullyQualifiedTypeName name="behaviour.statepattern.state.Silent"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="main.java.Stream.Employee"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.util.NoSuchElementException"/>
+<fullyQualifiedTypeName name="java.util.HashSet"/>
+<fullyQualifiedTypeName name="main.java.Stream.groupingBy.BlogPost"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+<fullyQualifiedTypeName name="java.util.function.Function"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+</qualifiedTypeNameHistroy>

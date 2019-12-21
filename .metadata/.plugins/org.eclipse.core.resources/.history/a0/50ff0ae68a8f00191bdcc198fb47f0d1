@@ -1,0 +1,18 @@
+package main.java.lamdaFI;
+
+public class FunctionalInterfaceTest {
+	
+	interface FunctionalInterface1{
+		int operation(int a,int b);
+	}
+	
+	interface FunctionalInterface2{
+		String operation(String s);
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
